@@ -1,0 +1,8 @@
+{
+  "name": "Copy of PostMaster MZ",
+  "description": "Automação de conteúdo para redes sociais com IA, agendamento e gestão de assinaturas.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
